@@ -1,0 +1,15 @@
+D:\projectsNetCore\linq-csharp\bin\Debug\net7.0\linq-csharp.exe
+D:\projectsNetCore\linq-csharp\bin\Debug\net7.0\linq-csharp.deps.json
+D:\projectsNetCore\linq-csharp\bin\Debug\net7.0\linq-csharp.runtimeconfig.json
+D:\projectsNetCore\linq-csharp\bin\Debug\net7.0\linq-csharp.dll
+D:\projectsNetCore\linq-csharp\bin\Debug\net7.0\linq-csharp.pdb
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.csproj.AssemblyReference.cache
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.AssemblyInfoInputs.cache
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.AssemblyInfo.cs
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.csproj.CoreCompileInputs.cache
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.dll
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\refint\linq-csharp.dll
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.pdb
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\linq-csharp.genruntimeconfig.cache
+D:\projectsNetCore\linq-csharp\obj\Debug\net7.0\ref\linq-csharp.dll
